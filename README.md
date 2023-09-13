@@ -15,3 +15,13 @@ https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important/
 
 Second article:
 https://www.indeed.com/career-advice/career-development/what-is-code-quality
+
+-Functional
+-Consistent
+-Easy to understand (Clear and Simple)
+-Testable
+-Reusable
+-Bug free
+
+
+
