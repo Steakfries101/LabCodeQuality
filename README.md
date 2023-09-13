@@ -45,6 +45,8 @@ Another very important part is the testability. If code is unable to be tested, 
 almost every article mentioned it in one way or another. Consistency is important because it helps with readability and usability and come to think of it almost everything else as well. If code isn't consistent then it can make things much harder for someone who isn't the original programmer etc. The last point I'd like to talk about is code clarity. Code clarity is one of the most important things to pay attention to when coding. Clear code means it's easy to read and understand. It allows other programmers to work on it easily as well as makes it easy for the original programmer to troubleshoot etc. When code is clean and straightforward there is way less room for error, when things get to convoluted that's when stuff starts to fall apart.
 
 
+To evaluate my work, I would like to say 4 but I know it's a 3 for a few reasons. I believe my commits could be better ( This is something I will need to work on as we continue and I believe I am late submitting). My commits and commit titles are going to be a work in progress and I cannot wait to keep practicing!
+
 
 
 
