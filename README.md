@@ -32,6 +32,15 @@ Third Article: https://stepsize.com/blog/the-engineers-complete-guide-to-code-qu
 -Testable
 -Bug free
 
+Fourth Article: https://www.opsera.io/blog/13-code-quality-metrics-that-you-must-track
+
+-Readability
+-Reliability
+-Clarity
+-Efficiency
+-Testability
+
+
 
 
 
