@@ -23,5 +23,16 @@ https://www.indeed.com/career-advice/career-development/what-is-code-quality
 -Reusable
 -Bug free
 
+Third Article: https://stepsize.com/blog/the-engineers-complete-guide-to-code-quality
+
+-Clean
+-Easy to understand
+-Consistent
+-Functional
+-Testable
+-Bug free
+
+
+
 
 
