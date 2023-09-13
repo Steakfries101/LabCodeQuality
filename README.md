@@ -12,3 +12,6 @@ https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important/
 -Well tested
 -Well performing
 -Clear and Simple
+
+Second article:
+https://www.indeed.com/career-advice/career-development/what-is-code-quality
